@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def check_nulls(df):
     """
     Takes a data frame and returns a sorted list of the number
@@ -6,7 +9,6 @@ def check_nulls(df):
     return(df.isnull().sum().sort_values())
 
 def add_col(df, new_list, colname):
-    import pandas as pd
     """
     Adds a user-provided list as a column to a user-provided data frame.
 
