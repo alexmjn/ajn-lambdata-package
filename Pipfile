@@ -9,6 +9,7 @@ pylint = "*"
 [packages]
 pylint = "*"
 pandas = "*"
+ajn-lambdata-package = "*"
 
 [requires]
 python_version = "3.7"
