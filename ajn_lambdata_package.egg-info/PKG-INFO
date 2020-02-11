@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ajn-lambdata-package
+Version: 0.0.1
+Summary: Gameplay logic for Rock-Paper-Scissors
+Home-page: https://github.com/alexmjn/ajn-lambdata-package
+Author: Alex JN
+Author-email: ajenkneary@gmail.com
+License: MIT
+Description: # My Lambdata package
+        
+        ## Installation
+        Installation instructions
+        
+        TODO
+        
+        ## Usage
+        Usage instructions
+        
+        TODO
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

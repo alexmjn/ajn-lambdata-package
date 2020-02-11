@@ -1,0 +1,8 @@
+README.md
+setup.py
+ajn_lambdata_package/__init__.py
+ajn_lambdata_package/ajn_module.py
+ajn_lambdata_package.egg-info/PKG-INFO
+ajn_lambdata_package.egg-info/SOURCES.txt
+ajn_lambdata_package.egg-info/dependency_links.txt
+ajn_lambdata_package.egg-info/top_level.txt
