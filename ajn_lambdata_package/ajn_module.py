@@ -24,3 +24,10 @@ def add_col(df, new_list, colname):
     """
     df[colname] = pd.Series(new_list)
     return df
+
+class RawDF(object):
+    def __init__(self, df):
+        self.df = df
+
+    def add_col_class(self, new_list, colname):
+        self.df[colname] = pd.Series(new_list)
