@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="ajn-lambdata-package",
-    version="0.0.1",
+    version="0.0.2",
     author="Alex JN",
     author_email="ajenkneary@gmail.com",
     description="Lambda Test Package",
