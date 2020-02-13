@@ -24,3 +24,6 @@ def add_col(df, new_list, colname):
     """
     df[colname] = pd.Series(new_list)
     return df
+
+if __name__ == "__main__":
+    pass #testhere
